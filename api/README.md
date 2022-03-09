@@ -1,5 +1,12 @@
 # API for testing
 
+To start
+
+```
+npm install
+npm run start
+```
+
 ## GET /weather
 
 Returns weather information
